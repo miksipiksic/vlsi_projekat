@@ -1,0 +1,3 @@
+Warning (10268): Verilog HDL information at memory.v(15): always construct contains both blocking and non-blocking assignments
+Info (10281): Verilog HDL Declaration information at cpu.v(13): object "pc" differs only in case from object "PC" in the same scope
+Info (10281): Verilog HDL Declaration information at cpu.v(15): object "sp" differs only in case from object "SP" in the same scope
